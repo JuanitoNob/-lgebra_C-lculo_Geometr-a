@@ -1,2 +1,2 @@
-# -lgebra_C-lculo_Geometr-a
+# Algebra_Calculo_Geometria
 Proyecto Final del módulo
